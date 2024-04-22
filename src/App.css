@@ -1,0 +1,30 @@
+.app{
+  font-family: sans-serif;
+  text-align: center;
+}
+.main-heading h1{
+  font-size: 50px;
+}
+.show-no p{
+  font-size: 20px;
+}
+.otpInput{
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+  font-size: 1.2em;
+  color: #4285f4;
+}
+.otpform{
+  width: 197px;
+  padding: 5px;
+  margin: 10px;
+}
+.btn{
+  padding: 7px;
+  width: 75px;
+  color: white;
+  background: green;
+  border: none;
+}
